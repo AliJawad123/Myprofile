@@ -5,7 +5,7 @@ from PIL import Image
 st.set_page_config(page_title="Jawad Ali", page_icon="💻", layout="centered")
 
 # Profile image
-image = Image.open("assets/jawad.jpg")  # Replace with your photo
+image = Image.open("assets/jawad.jpeg")  # Replace with your photo
 st.image(image, width=180)
 
 # Name and Title
