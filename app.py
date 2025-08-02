@@ -10,7 +10,7 @@ st.image(image, width=180)
 
 # Name and Title
 st.title("Jawad Ali")
-st.subheader("AI Engineer | Web Developer | Photographer")
+st.subheader("AI Engineer | Programmer Analyst | Photographer")
 st.markdown("📍 Karachi, Pakistan | 📧 jawadali2020189@gmail.com")  # Replace with real email
 
 st.markdown("---")
@@ -18,8 +18,10 @@ st.markdown("---")
 # About Me
 st.header("👋 About Me")
 st.write("""
-I am a Bachelor’s graduate in Artificial Intelligence from GIKI, currently working as a Programmer Analyst at Aga Khan University, Karachi.  
-I enjoy solving real-world problems using AI and web technologies. I also have a passion for photography and freelancing.
+I’m a Bachelor’s graduate in Artificial Intelligence from GIKI, currently working as a Programmer Analyst at Aga Khan University in Karachi.
+I grew up in the scenic valleys of Hunza in Gilgit-Baltistan, which nurtured both my curiosity for technology and my love for photography.
+
+With a strong foundation in AI and web development, I’m passionate about solving real-world problems using innovative tech solutions. Outside of work, I enjoy freelancing, exploring nature through the lens, and building tools that make everyday life smarter and more efficient.
 """)
 
 # Skills
