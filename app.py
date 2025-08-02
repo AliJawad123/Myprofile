@@ -60,7 +60,7 @@ st.write("In my free time, I love capturing landscapes of Gilgit-Baltistan. More
 st.header("📫 Connect with Me")
 st.markdown("""
 - [LinkedIn](https://www.linkedin.com/in/jawad-ali-021394211/)
-- [GitHub](https://github.com/) <!-- Add your GitHub here -->
+- [GitHub](https://https://github.com/AliJawad123/) 
 - Email: jawadali2020189@gmail.com 
 """)
 
