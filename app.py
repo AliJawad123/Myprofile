@@ -28,7 +28,7 @@ Currently, I work as a Programmer Analyst at Aga Khan University in Karachi, whe
 st.header("🎨 My GIPHY Creations")
 st.write("""
 I’ve created a unique series of animated GIFs and line art stickers inspired by real-life moments, emotions, and cultural stories.  
-Check out my GIPHY work: [GIPHY Profile](https://giphy.com/channel/YourChannelHere) *(Update this link when live)*  
+Check out my GIPHY work: [GIPHY Profile](https://giphy.com/channel/Jawadali123)  
 You’ll find looping animations, minimalist yellow-line artwork, and expressive storytelling through motion design.
 """)
 
